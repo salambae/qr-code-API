@@ -8,3 +8,9 @@ These are the inputs you send to the API to get the desired data
 - ```border``` parameter controls how many boxes thick the border should be.
 - ```background``` parameter controls the background color.
 - ```ver``` parameter is an integer from 1 to 40 that controls the size of the QR Code.
+# Example Usage
+### Example Requests
+For an example, you want get the qr code of ```https://github.com/salambae``` url
+```
+https://salambae.pythonanywhere.com/api/v1/qr-code-generator?url=https://github.com/salambae&size=#SIZE_OF_QRCODE&border=#BORDER_THICKNESS&background=#BG_COLOR&ver=#SIZE_OF_QR
+```
