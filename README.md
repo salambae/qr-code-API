@@ -14,3 +14,6 @@ For an example, you want get the qr code of ```https://github.com/salambae``` ur
 ```
 https://salambae.pythonanywhere.com/api/v1/qr-code-generator?url=https://github.com/salambae&size=#SIZE_OF_QRCODE&border=#BORDER_THICKNESS&background=#BG_COLOR&ver=#SIZE_OF_QR
 ```
+# References
+1. https://pypi.org/project/qrcode/
+2. pythonanywhere.com
