@@ -16,4 +16,4 @@ https://salambae.pythonanywhere.com/api/v1/qr-code-generator?url=https://github.
 ```
 # References
 1. https://pypi.org/project/qrcode/
-2. pythonanywhere.com
+2. https://pythonanywhere.com
