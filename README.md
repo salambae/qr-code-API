@@ -16,9 +16,13 @@ https://salambae.pythonanywhere.com/api/v1/qr-code-generator?url=https://github.
 ```
 ### Apply to the website
 Source code (Javascript, HTML, CSS)
-```https://github.com/salambae/text-to-qrcode```
+```
+https://github.com/salambae/text-to-qrcode
+```
 Website appearance
-```https://salambae.github.io/text-to-qrcode/```
+```
+https://salambae.github.io/text-to-qrcode/
+```
 Download format is .PNG
 # References
 1. https://pypi.org/project/qrcode/
