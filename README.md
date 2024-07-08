@@ -14,6 +14,11 @@ For example, if you want get the QR code of the ```https://github.com/salambae``
 ```
 https://salambae.pythonanywhere.com/api/v1/qr-code-generator?url=https://github.com/salambae&size=#SIZE_OF_QRCODE&border=#BORDER_THICKNESS&background=#BG_COLOR&ver=#SIZE_OF_QR
 ```
+### Apply to the website
+Source code (Javascript, HTML, CSS)
+```https://github.com/salambae/text-to-qrcode```
+Website appearance
+```https://salambae.github.io/text-to-qrcode/```
 Download format is .PNG
 # References
 1. https://pypi.org/project/qrcode/
